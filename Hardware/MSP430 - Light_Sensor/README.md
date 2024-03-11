@@ -1,5 +1,5 @@
 ## Wiring
 
 <p align="center">
-  <img width="1599" height="600" src="https://github.com/rumenski11/Raspberry-Pi-Pico/blob/main/Documents/temp_schematic.jpg">
+  <img width="600" height="1599" src="https://github.com/rumenski11/BK-430-1B/blob/main/Documents/MSP430-LightSensor.jpg">
 </p>
