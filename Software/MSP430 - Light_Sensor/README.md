@@ -1,15 +1,9 @@
 ## Output
-```
-Adc value: 289
-Adc voltage: 0.931     
-Temperature in C: 27.25
-Adc value: 285
-Adc voltage: 0.918     
-Temperature in C: 26.59
-Adc value: 285
-Adc voltage: 0.918     
-Temperature in C: 26.59
-Adc value: 285    
-Adc voltage: 0.918
-Temperature in C: 26.59
-```
+
+<p align="center">
+  <img width="1599" height="600" src="https://github.com/rumenski11/BK-430-1B/blob/main/Documents/MSP430-Light.jpg">
+</p>
+
+<p align="center">
+  <img width="1599" height="600" src="https://github.com/rumenski11/BK-430-1B/blob/main/Documents/MSP430-NoLight.jpg">
+</p>
